@@ -1,16 +1,15 @@
 # projeto_perguntas
 
-A new Flutter project.
+Faz diversas perguntas e dá uma descrição do usuário baseado nas respostas.
 
-## Getting Started
+## Estado do projeto
 
-This project is a starting point for a Flutter application.
+No momento a aplicação está mostrando as perguntas e as respostas disponíveis na tela
+e a cada clique em uma resposta, as informações são alteradas para a próxima pergunta
+e as próximas respostas disponíveis.
 
-A few resources to get you started if this is your first Flutter project:
+## Problemas encontrados
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ao clicar na resposta para a última pergunta, a aplicação entra em um erro, pois não foi
+colocado ainda um tratamento o laço das perguntas e também não foi adicionado o mecanismo
+que irá gerar a descrição do usuário.
