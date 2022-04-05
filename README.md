@@ -5,6 +5,7 @@ Faz diversas perguntas e dá uma descrição do usuário baseado nas respostas.
 ## Estado do projeto
 
 Aplicação está completa. 
+Utilize o aplicativo [neste link](https://projetoperguntas.web.app)!
 
 Uma pergunta é exibida junto com botões de alternativas para o usuário clicar
 e responder. Ao clicar em um botão, a pergunta e as alternativas mudam.
